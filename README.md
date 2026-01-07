@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://placehold.co/800x120/0f172a/64748b?text=ZeroScope&font=mono&bold=1&size=64" alt="ZeroScope" width="100%"/>
 </p>
+
 # ZeroScope
 
 > **Local, zero-shot text-to-video generation — lightweight, transparent, and privacy-respecting.**  
